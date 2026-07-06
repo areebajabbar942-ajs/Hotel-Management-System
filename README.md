@@ -4,6 +4,7 @@ The Hotel Management System is a console-based application developed in C++ that
 This project demonstrates the practical implementation of C++ concepts including structures, functions, file handling, dynamic memory allocation, loops, conditional statements, and input validation.
 
 Features:
+<br>
 Add new rooms
 View all available rooms
 Search rooms based on customer preferences

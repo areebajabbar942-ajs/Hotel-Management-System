@@ -1,3 +1,9 @@
+#include <iostream>
+#include <string>
+#include <fstream>
+#include <iomanip>   
+using namespace std;
+
 struct rooms
 {
 	int roomNo;
@@ -16,6 +22,7 @@ struct rooms
 	int readCost;
 	const int Meal_cost = 5000;
 };
+
 void WriteFor_Rooms()
 {
 	rooms R;

@@ -17,3 +17,12 @@ Automatic room availability updates
 Hotel bill calculation
 File handling for permanent data storage
 User input validation and error handling
+
+## Concepts Used
+- Structures
+- Structure Arrays
+- Dynamic Arrays
+- File Handling
+- Searching
+- Validation
+- Stock Management

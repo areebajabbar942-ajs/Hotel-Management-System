@@ -1,7 +1,5 @@
  # Hotel-Management-System
-The Hotel Management System is a console-based application developed in C++ that automates the basic operations of a hotel. It allows users to manage rooms, customers, and bookings while storing all records in text files using file handling. The system also calculates bills based on room type, stay duration, meal services, air conditioning, and additional charges.
-
-This project demonstrates the practical implementation of C++ concepts including structures, functions, file handling, dynamic memory allocation, loops, conditional statements, and input validation.
+Hotels often face difficulties in managing room availability, customer records, bookings, and billing manually, which can lead to errors and inefficient operations. This Hotel Management System provides a simple console-based solution that automates room management, customer registration, booking, billing, and cancellation while securely storing records using file handling. The system improves accuracy, reduces manual work, and makes hotel operations more organized and efficient.
 
 Features:
 <br>
